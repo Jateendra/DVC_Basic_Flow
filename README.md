@@ -26,7 +26,7 @@ git init
 dvc init
 ```
 
-If error copy : sqlite3.dll from loc:C:\Users\jatpradh\Anaconda3\DLLs to loc: C:\Users\jatpradh\Anaconda3\envs\basic_demo\DLLs
+##### If error copy : sqlite3.dll from loc:C:\Users\jatpradh\Anaconda3\DLLs to loc: C:\Users\jatpradh\Anaconda3\envs\basic_demo\DLLs
 
 ```bash
 dvc repro
